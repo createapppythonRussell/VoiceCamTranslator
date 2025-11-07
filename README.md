@@ -9,5 +9,5 @@
 
 1. **克隆项目：**
    ```bash
-   git clone https://github.com/你的用户名/VoiceCamTranslator.git
+   git clone https://github.com/createapppythonRussell/VoiceCamTranslator/tree/main/VoiceCamTranslator.git
    cd VoiceCamTranslator
