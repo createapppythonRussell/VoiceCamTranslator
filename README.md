@@ -8,7 +8,8 @@
 ## 🚀 使用方法
 
 1. **克隆项目：**
-   ```bash
+
+2. ```bash
 git clone https://github.com/createapppythonRussell/VoiceCamTranslator.git
    cd VoiceCamTranslator
-```
+   
