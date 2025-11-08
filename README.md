@@ -47,6 +47,14 @@ python 摄像头.py
 
 
 
+中国  
+© 2025 createapppythonRussell — VoiceCamTranslator. 版权所有。  
+
+俄罗斯  
+© 2025 createapppythonRussell — VoiceCamTranslator. Все права защищены.
+
+
+
 
 
 
